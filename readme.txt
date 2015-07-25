@@ -11,11 +11,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Plugin simples e objetivo que coloca seu WordPress em manutenção:
-	1. Desabilite o modo de manutenção sem precisar desativar o plugin;
-	2. Escolha seu modo de manutenção: você pode usar uma página de manutenção ou escolher uma URL para redirecionamento;
-	3. Construa sua página de manutenção, definindo seu próprio HTML, CSS e JS, ou use o padrão;
-	4. Apenas administradores logados poderão ver o site, MAS é possível incluir vários endereços de IP que também poderão ter acesso normal ao site.
+Coloque seu WordPress em manutenção, de forma simples e objetiva e, ao mesmo tempo, escolha entre várias opções
+
+1. Desabilite o modo de manutenção sem precisar desativar o plugin;
+
+2. Escolha seu modo de manutenção: você pode usar uma página de manutenção ou escolher uma URL para redirecionamento;
+
+3. Construa sua página de manutenção, definindo seu próprio HTML, CSS e JS, ou use o padrão;
+
+4. Apenas administradores logados poderão ver o site, MAS é possível incluir vários endereços de IP que também poderão ter acesso normal ao site.
 
 == Installation ==
 
@@ -39,8 +43,5 @@ Plugin simples e objetivo que coloca seu WordPress em manutenção:
 
 = 1.0.0 =
 * Lançamento do plugin
-
-= 1.0.1 =
-* Adição de opção para fazer redirecionamento e restringir acesso por IPs
 
 == Upgrade Notice ==
