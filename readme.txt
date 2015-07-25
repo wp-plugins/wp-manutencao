@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Coloque seu WordPress em manutenção, de forma simples e objetiva e, ao mesmo tempo, escolha entre várias opções
+Coloque seu WordPress em manutenção, de forma simples e objetiva. E ao mesmo tempo, escolha entre várias opções
 
 1. Desabilite o modo de manutenção sem precisar desativar o plugin;
 
@@ -37,6 +37,9 @@ Coloque seu WordPress em manutenção, de forma simples e objetiva e, ao mesmo t
 
 == Changelog ==
 
+= 1.0.2 =
+* A descrição sobre o plugin foi melhorada e um bug foi corrigido.
+
 = 1.0.1 =
 * Adicionada nova opção para escolher uma URL de redirecionamento.
 * Adicionada nova opção para liberar o acesso ao site, através de endereços de IP.
@@ -45,3 +48,6 @@ Coloque seu WordPress em manutenção, de forma simples e objetiva e, ao mesmo t
 * Lançamento do plugin
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+* Um bug foi corrigido.
